@@ -1,0 +1,13 @@
+HELP.md
+target/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+*.jpg
+*.jpeg
+*.weights
+*.h5
